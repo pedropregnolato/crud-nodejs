@@ -62,4 +62,3 @@ app.delete("/teste", async function(req, res) {
 app.listen(80, function(req, res) {
     console.log("Servidor Online")
 })
-
